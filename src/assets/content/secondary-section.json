@@ -1,0 +1,29 @@
+[
+  {
+    "txtDetails": "Download the Moodagent app here",
+    "actions": [
+      {
+        "btntxt": "install",
+        "show": true
+      }
+    ]
+  },
+  {
+    "txtDetails": "Download the Moodagent app here",
+    "actions": [
+      {
+        "btntxt": "install",
+        "show": true
+      }
+    ]
+  },
+  {
+    "txtDetails": "Download the Moodagent app here",
+    "actions": [
+      {
+        "btntxt": "install",
+        "show": true
+      }
+    ]
+  }
+]

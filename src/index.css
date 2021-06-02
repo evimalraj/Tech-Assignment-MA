@@ -1,0 +1,84 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  color: #fff;
+  background-color: #000;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:visited,
+.btn-primary:focus,
+.btn-primary:active{
+  color: #000;
+  background-color: #fff;
+  border-radius: 18px;
+  border: none;
+}
+
+
+.main-container {
+  margin-top: 50px;
+}
+.navbar .navbar-nav .nav-link, 
+.navbar .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+.navbar.bg-dark {
+  background-color: #000 !important;
+}
+
+.main-content {
+  padding:50px;
+}
+
+.list-items {
+  padding: 10px 0;
+}
+
+.step-numbers {
+  color: #ffb700;
+  width: 50%;
+}
+
+.step-numbers:after {
+  content: '';
+  display: block;
+  border-right: 1px solid #ccc;
+  height: 25px;
+  float: right;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.banner-bg {
+  padding: 50px 0;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner-bg img{
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.rightbanner {
+  background-image: url('images/Mobile app background.png');
+}
+
+.leftbanner {
+  background-image: url('images/d_spp_background.png');
+}
